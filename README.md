@@ -1,4 +1,4 @@
-Agentic-Research-Assistant
+### Agentic-Research-Assistant
 
 A powerful AI-powered research assistant built with Streamlit, LangChain, and OpenAI, designed to help users analyze and interact with academic documents using natural language. Easily upload PDFs or links and start querying them like a pro researcher.
 
