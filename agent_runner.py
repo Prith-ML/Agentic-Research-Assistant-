@@ -12,7 +12,7 @@ from langchain.agents.xml.base import XMLAgentOutputParser
 from langchain import hub
 from langchain_aws.embeddings import BedrockEmbeddings
 from langchain_anthropic import ChatAnthropic
-from pinecone_client import Pinecone
+from pinecone import Pinecone
 
 
 # In[3]:
