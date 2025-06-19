@@ -1,1 +1,7 @@
-
+streamlit
+langchain
+langchain-anthropic
+langchain-aws
+pinecone-client
+boto3
+python-dotenv
