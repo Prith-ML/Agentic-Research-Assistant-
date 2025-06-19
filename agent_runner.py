@@ -4,7 +4,7 @@
 # In[1]:
 
 
-import os
+import streamlit as st
 import time
 from dotenv import load_dotenv
 from langchain.agents import Tool, AgentExecutor
