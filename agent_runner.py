@@ -18,9 +18,8 @@ from pinecone import Pinecone
 # In[3]:
 
 
-load_dotenv("env.txt")
-CLAUDE_API_KEY = os.environ.get("CLAUDE_API_KEY")
-PINECONE_API_KEY = os.environ.get("PINECONE_API_KEY")
+CLAUDE_API_KEY = st.secrets["CLAUDE_API_KEY"]
+PINECONE_API_KEY = st.secrets["PINECONE_API_KEY"]
 
 
 # In[5]:
